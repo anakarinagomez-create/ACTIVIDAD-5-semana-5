@@ -1,0 +1,2 @@
+La ruta POST recibe el mensaje y contesta nuevamente el mensaje en un formato JSON.
+El POST nos sirve en una app comunitaria para recibir datos de los miembros de la comunidad.

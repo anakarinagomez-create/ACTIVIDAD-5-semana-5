@@ -1,0 +1,3 @@
+En la ruta / nos sale el mensaje de servidor activo.
+En la ruta /saludo sale saludos comunidad
+En la ruta /mensaje/juan nos sale el saludo a juan
